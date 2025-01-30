@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NoiseGround
+  m_Shader: {fileID: 4800000, guid: 727922e2d00d1194eb6a76cadc95fd0d, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: _MainTex
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 02b230a6dbc126f49ac17778565ed96e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0.76, y: 1}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 0dd806b1d20ab4a43bf0aa049663105f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Glossiness: 0.42
+    - _Metallic: 0
+    - _NoiseFrequency: 0.5
+    - _NoiseScale: 0.12
+    - _Tess: 8
+    m_Colors:
+    - _Color: {r: 0.5943396, g: 0.5922441, b: 0.57004267, a: 1}
+    - _NoiseOffset: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
