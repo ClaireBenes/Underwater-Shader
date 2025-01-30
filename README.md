@@ -11,23 +11,27 @@ This project explores **noise functions**, **perlin noise**, and **shader-based 
 - **Procedural fish animation** – Uses a noisefield to create natural-looking fish movement.  
 - **Terrain generation** – Implements Perlin noise for realistic underwater ground formations.  
 
-## 📹 Videos  
+## 🎥 Videos  
 
 🎥 **Final Result**  
 
 [![Final Result](https://img.youtube.com/vi/gZaqpyHgWFo/0.jpg)](https://youtu.be/gZaqpyHgWFo)  
 
+
 🎥 **Making of: Noisefield (Fish Movement)**  
 
 [![Noisefield Process](https://img.youtube.com/vi/v3UEb1hhRg0/0.jpg)](https://youtu.be/v3UEb1hhRg0)  
+
 
 🎥 **Water Shader (Noise-Based Distortion)**  
 
 [![Water Shader](https://img.youtube.com/vi/ElRa0iz8GG8/0.jpg)](https://youtu.be/ElRa0iz8GG8)  
 
+
 🎥 **Ground Process (Perlin Noise)**  
 
-[![Ground Process](https://img.youtube.com/vi/C9yS8aXwqeo/0.jpg)](https://youtu.be/C9yS8aXwqeo)  
+[![Ground Process](https://img.youtube.com/vi/C9yS8aXwqeo/0.jpg)](https://youtu.be/C9yS8aXwqeo) 
+ 
 
 ## 📌 Status  
 
