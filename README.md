@@ -15,22 +15,26 @@ This project explores **noise functions**, **perlin noise**, and **shader-based 
 
 🎥 **Final Result**  
 
-[![Final Result](https://img.youtube.com/vi/gZaqpyHgWFo/0.jpg)](https://youtu.be/gZaqpyHgWFo)  
+https://github.com/user-attachments/assets/e8a10e39-b75d-43bf-88a8-b5ff5675865d
 
 
 🎥 **Making of: Noisefield (Fish Movement)**  
 
-[![Noisefield Process](https://img.youtube.com/vi/v3UEb1hhRg0/0.jpg)](https://youtu.be/v3UEb1hhRg0)  
+
+https://github.com/user-attachments/assets/2a485b1e-deb3-4454-a343-a8af08a803c2
 
 
 🎥 **Water Shader (Noise-Based Distortion)**  
 
-[![Water Shader](https://img.youtube.com/vi/ElRa0iz8GG8/0.jpg)](https://youtu.be/ElRa0iz8GG8)  
+
+https://github.com/user-attachments/assets/09b6d940-a30e-42ae-8c0b-ee4093db8372
+
 
 
 🎥 **Ground Process (Perlin Noise)**  
 
-[![Ground Process](https://img.youtube.com/vi/C9yS8aXwqeo/0.jpg)](https://youtu.be/C9yS8aXwqeo) 
+
+https://github.com/user-attachments/assets/f84715cc-3e23-4541-a116-56802577bcd2
  
 
 ## 📌 Status  
