@@ -5,11 +5,13 @@ This project explores **noise functions**, **perlin noise**, and **shader-based 
 
 ![Underwater Shader Preview](https://github.com/user-attachments/assets/88928fc9-5df8-407b-92b7-41209309fd1f)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fbb194e7-849c-44e9-b8bc-6182a71ccf15" width="334" />
-  <img src="https://github.com/user-attachments/assets/8feeb31c-aac7-4300-9efc-e62abf63de97" width="334"" />
-  <img src="https://github.com/user-attachments/assets/c24cc169-8cb0-4afc-aff0-a2404707bf05" width="334" />
-</p>
+<table>
+  <tr>
+    <td><img width="400" alt="Light Mode" src="https://github.com/user-attachments/assets/fbb194e7-849c-44e9-b8bc-6182a71ccf15" /></td>
+    <td><img width="400" alt="Dark Mode" src="https://github.com/user-attachments/assets/8feeb31c-aac7-4300-9efc-e62abf63de97" /></td>
+    <td><img width="400" alt="Inside Maya" src="https://github.com/user-attachments/assets/c24cc169-8cb0-4afc-aff0-a2404707bf05" /></td>
+  </tr>
+</table>
 
 ## 🛠️ Features  
 
